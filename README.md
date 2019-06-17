@@ -15,5 +15,5 @@ Analytical research reports are prepared to support Immigration, Refugees and Ci
 ## Statistics and Open Data
 Statistics and data sets from Immigration, Refugees and Citizenship Canada, including Fact and Figures, an annual publication of statistics about new permanent and temporary residents in Canada.
 
-###Thanks for visiting,
-###please like and fork.
+### Thanks for visiting,
+### please like and fork.
